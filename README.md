@@ -1,9 +1,9 @@
 # Promoter Test Site
 
-This simple front end is responsible for displaying ads as if it was a promoter's website. This is to show proof of concept and to allow us to test displaying and tracking data associated with ads.
+This minimalistic front-end solution assumes the role of simulating a promoter's website, showcasing the proof of concept and facilitating the examination of advertisement display and associated data tracking.
 
-Here we showcase how adding our script to a website can enable promoters to generate ad revenue. Click the link below to check it out!
+We demonstrate the ability for promoters to generate advertising revenue by incorporating our script into their websites. Feel free to explore the implementation by accessing the following link:
 
 https://node-market-test-site.netlify.app/
 
-Looking to add this functionality to your website? After creating a promoter account on the NodeMarket Platform, add the required script to get started.
+Are you interested in integrating this functionality into your own website? Begin by creating a promoter account on the NodeMarket Platform, then proceed to add the necessary script to get started.
